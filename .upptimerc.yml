@@ -6,7 +6,7 @@ sites:
    - name: Accesco
      url: https://www.accesco.co
    - name: Kardiologija
-     url: https://www.kardiologijazs.com
+     url: https://kardiologijazs.com
 status-website:
 # Add your custom domain name, or remove the `cname` line if you don't have a domain
 # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
