@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 726,
-    "timeDay": 726,
-    "timeWeek": 726,
-    "timeMonth": 726,
-    "timeYear": 726,
+    "time": 697,
+    "timeDay": 697,
+    "timeWeek": 697,
+    "timeMonth": 697,
+    "timeYear": 697,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Kardiologija",
+    "url": "https://www.kardiologijazs.com",
+    "icon": "https://favicons.githubusercontent.com/www.kardiologijazs.com",
+    "slug": "kardiologija",
+    "status": "down",
+    "uptime": "51.81%",
+    "uptimeDay": "51.81%",
+    "uptimeWeek": "51.81%",
+    "uptimeMonth": "51.81%",
+    "uptimeYear": "51.81%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-02-03": 0
+    }
   }
 ]
