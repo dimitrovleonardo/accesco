@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/kardiologijazs.com",
     "slug": "kardiologija",
     "status": "up",
-    "uptime": "4.76%",
-    "uptimeDay": "4.76%",
-    "uptimeWeek": "4.76%",
-    "uptimeMonth": "4.76%",
-    "uptimeYear": "4.76%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 725,
     "timeDay": 725,
     "timeWeek": 725,
     "timeMonth": 725,
     "timeYear": 725,
-    "dailyMinutesDown": {
-      "2022-02-03": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
