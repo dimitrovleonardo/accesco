@@ -4,18 +4,20 @@
     "url": "https://www.accesco.co",
     "icon": "https://favicons.githubusercontent.com/www.accesco.co",
     "slug": "accesco",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 776,
-    "timeDay": 971,
-    "timeWeek": 776,
-    "timeMonth": 776,
-    "timeYear": 776,
-    "dailyMinutesDown": {}
+    "time": 768,
+    "timeDay": 826,
+    "timeWeek": 768,
+    "timeMonth": 768,
+    "timeYear": 768,
+    "dailyMinutesDown": {
+      "2022-02-06": 0
+    }
   },
   {
     "name": "Kardiologija",
