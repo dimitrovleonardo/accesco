@@ -43,19 +43,19 @@
     "url": "https://fullhauz.com",
     "icon": "https://favicons.githubusercontent.com/fullhauz.com",
     "slug": "fullhauz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 706,
-    "timeDay": 900,
-    "timeWeek": 720,
-    "timeMonth": 706,
-    "timeYear": 706,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 699,
+    "timeDay": 751,
+    "timeWeek": 705,
+    "timeMonth": 699,
+    "timeYear": 699,
     "dailyMinutesDown": {
-      "2022-02-17": 0
+      "2022-02-17": 33
     }
   }
 ]
