@@ -44,9 +44,9 @@
     "url": "https://fullhauz.com",
     "icon": "https://favicons.githubusercontent.com/fullhauz.com",
     "slug": "fullhauz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
@@ -56,6 +56,7 @@
     "timeMonth": 656,
     "timeYear": 656,
     "dailyMinutesDown": {
+      "2022-03-02": 0,
       "2022-02-17": 33
     }
   }
