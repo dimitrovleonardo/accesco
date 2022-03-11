@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.accesco.co",
     "slug": "accesco",
     "status": "down",
-    "uptime": "96.23%",
+    "uptime": "94.44%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.85%",
-    "uptimeMonth": "95.68%",
-    "uptimeYear": "96.23%",
+    "uptimeWeek": "72.12%",
+    "uptimeMonth": "93.44%",
+    "uptimeYear": "94.44%",
     "time": 779,
     "timeDay": 631,
     "timeWeek": 754,
     "timeMonth": 771,
     "timeYear": 779,
     "dailyMinutesDown": {
-      "2022-03-11": 44,
+      "2022-03-11": 1025,
       "2022-03-10": 1440,
       "2022-03-09": 314,
       "2022-03-07": 31,
@@ -30,9 +30,9 @@
     "url": "https://kardiologijazs.com",
     "icon": "https://favicons.githubusercontent.com/kardiologijazs.com",
     "slug": "kardiologija",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -41,7 +41,9 @@
     "timeWeek": 739,
     "timeMonth": 649,
     "timeYear": 660,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 0
+    }
   },
   {
     "name": "Fullhauz",
