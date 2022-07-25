@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.accesco.co",
     "slug": "accesco",
     "status": "down",
-    "uptime": "20.15%",
+    "uptime": "20.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "20.15%",
+    "uptimeYear": "20.07%",
     "time": 682,
     "timeDay": 702,
     "timeWeek": 631,
     "timeMonth": 598,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2022-07-25": 58,
+      "2022-07-25": 1032,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
       "2022-07-22": 1440,
@@ -166,7 +166,7 @@
     "url": "https://kardiologijazs.com",
     "icon": "https://favicons.githubusercontent.com/kardiologijazs.com",
     "slug": "kardiologija",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -178,6 +178,7 @@
     "timeMonth": 723,
     "timeYear": 696,
     "dailyMinutesDown": {
+      "2022-07-25": 0,
       "2022-04-26": 332,
       "2022-03-11": 37
     }
