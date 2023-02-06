@@ -4,13 +4,13 @@ repo: accesco # The name of this repository
 
 sites:
    - name: Accesco
-     url: https://www.accesco.co
+     url: https://accesco.co
    - name: Kardiologija
      url: https://kardiologijazs.com
    - name: Fullhauz
      url: https://fullhauz.com
    - name: Ticket_Accesco
-     url: https://ticket.accesco.co
+     url: https://ticket.accesco.co/otrs/customer.pl
 status-website:
 # Add your custom domain name, or remove the `cname` line if you don't have a domain
 # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
