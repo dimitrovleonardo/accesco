@@ -9,6 +9,8 @@ sites:
      url: https://kardiologijazs.com
    - name: Fullhauz
      url: https://fullhauz.com
+   - name: Ticket_Accesco
+     url: https://ticket.accesco.co
 status-website:
 # Add your custom domain name, or remove the `cname` line if you don't have a domain
 # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
