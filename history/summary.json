@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/accesco.co.ico",
     "slug": "accesco",
     "status": "down",
-    "uptime": "15.26%",
+    "uptime": "15.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "14.10%",
+    "uptimeYear": "13.83%",
     "time": 739,
-    "timeDay": 923,
-    "timeWeek": 938,
-    "timeMonth": 1006,
-    "timeYear": 738,
+    "timeDay": 699,
+    "timeWeek": 871,
+    "timeMonth": 1007,
+    "timeYear": 737,
     "dailyMinutesDown": {
-      "2023-02-08": 51,
+      "2023-02-09": 50,
+      "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
@@ -334,8 +335,7 @@
       "2022-03-10": 1440,
       "2022-03-09": 314,
       "2022-03-07": 31,
-      "2022-02-23": 62,
-      "2022-02-09": 30
+      "2022-02-23": 62
     }
   },
   {
@@ -350,9 +350,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
     "time": 695,
-    "timeDay": 944,
-    "timeWeek": 807,
-    "timeMonth": 708,
+    "timeDay": 703,
+    "timeWeek": 796,
+    "timeMonth": 712,
     "timeYear": 695,
     "dailyMinutesDown": {
       "2022-12-26": 18,
@@ -376,9 +376,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.90%",
     "time": 875,
-    "timeDay": 833,
-    "timeWeek": 722,
-    "timeMonth": 1200,
+    "timeDay": 684,
+    "timeWeek": 720,
+    "timeMonth": 1193,
     "timeYear": 879,
     "dailyMinutesDown": {
       "2023-01-18": 15,
@@ -409,7 +409,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-08": 52,
+      "2023-02-09": 50,
+      "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 183
     }
