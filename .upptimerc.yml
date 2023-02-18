@@ -10,7 +10,7 @@ sites:
    - name: Fullhauz
      url: https://fullhauz.com
    - name: Ticket_Accesco
-     url: https://ticket.accesco.co/otrs/customer.pl
+     url: http://81.169.243.172
 status-website:
 # Add your custom domain name, or remove the `cname` line if you don't have a domain
 # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
