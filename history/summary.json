@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.83%",
+    "uptimeYear": "28.84%",
     "time": 815,
     "timeDay": 1696,
     "timeWeek": 1416,
@@ -279,8 +279,7 @@
       "2022-05-09": 1440,
       "2022-05-08": 1440,
       "2022-05-07": 1440,
-      "2022-05-06": 1440,
-      "2022-05-05": 1440
+      "2022-05-06": 1440
     }
   },
   {
@@ -343,18 +342,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/81.169.243.172.ico",
     "slug": "ticket-accesco",
     "status": "down",
-    "uptime": "58.60%",
+    "uptime": "58.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "30.08%",
-    "uptimeYear": "58.60%",
+    "uptimeMonth": "29.97%",
+    "uptimeYear": "58.58%",
     "time": 300,
     "timeDay": 304,
     "timeWeek": 259,
     "timeMonth": 335,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2023-05-04": 1437,
+      "2023-05-05": 42,
+      "2023-05-04": 1440,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
