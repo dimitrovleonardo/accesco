@@ -1,7 +1,7 @@
 url: https://accesco.co
-status: up
-code: 200
-responseTime: 1263
-lastUpdated: 2023-07-01T23:17:48.539Z
+status: down
+code: 500
+responseTime: 1109
+lastUpdated: 2023-07-02T19:05:21.075Z
 startTime: Thu Feb 03 2022 00:11:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
