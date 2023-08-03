@@ -384,19 +384,19 @@
     "url": "https://continentaldispatchacademy.mk/",
     "icon": "https://icons.duckduckgo.com/ip3/continentaldispatchacademy.mk.ico",
     "slug": "continental-dispatch-academy",
-    "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
-    "time": 278,
-    "timeDay": 278,
-    "timeWeek": 278,
-    "timeMonth": 278,
-    "timeYear": 278,
+    "status": "up",
+    "uptime": "0.88%",
+    "uptimeDay": "0.88%",
+    "uptimeWeek": "0.88%",
+    "uptimeMonth": "0.88%",
+    "uptimeYear": "0.88%",
+    "time": 496,
+    "timeDay": 496,
+    "timeWeek": 496,
+    "timeMonth": 496,
+    "timeYear": 496,
     "dailyMinutesDown": {
-      "2023-08-03": 15
+      "2023-08-03": 24
     }
   }
 ]
