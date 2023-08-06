@@ -9,10 +9,12 @@ sites:
      url: https://kardiologijazs.com
    - name: Fullhauz
      url: https://fullhauz.com
-   - name: Ticket_Accesco
+   - name: Accesco #2
      url: http://81.169.243.172
    - name: Continental Dispatch Academy
      url: https://continentaldispatchacademy.mk/
+   - name: Youth-Led Activism Platform
+     url: https://yla-platform.eu/
 status-website:
 # Add your custom domain name, or remove the `cname` line if you don't have a domain
 # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
