@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/accesco.co.ico",
     "slug": "accesco",
     "status": "up",
-    "uptime": "42.93%",
+    "uptime": "42.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "55.66%",
+    "uptimeYear": "55.74%",
     "time": 898,
     "timeDay": 869,
     "timeWeek": 964,
@@ -288,17 +288,19 @@
     "url": "https://yla-platform.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/yla-platform.eu.ico",
     "slug": "youth-led-activism-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2915,
-    "timeDay": 1374,
-    "timeWeek": 2915,
-    "timeMonth": 2915,
-    "timeYear": 2915,
-    "dailyMinutesDown": {}
+    "time": 4358,
+    "timeDay": 8637,
+    "timeWeek": 4358,
+    "timeMonth": 4358,
+    "timeYear": 4358,
+    "dailyMinutesDown": {
+      "2023-08-11": 0
+    }
   }
 ]
