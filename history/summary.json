@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/accesco.co.ico",
     "slug": "accesco",
     "status": "up",
-    "uptime": "43.34%",
+    "uptime": "43.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "56.76%",
+    "uptimeYear": "56.78%",
     "time": 899,
     "timeDay": 1075,
     "timeWeek": 935,
@@ -246,9 +246,9 @@
     "url": "http://81.169.243.172",
     "icon": "https://icons.duckduckgo.com/ip3/81.169.243.172.ico",
     "slug": "accesco-s2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -257,7 +257,9 @@
     "timeWeek": 682,
     "timeMonth": 704,
     "timeYear": 704,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-15": 0
+    }
   },
   {
     "name": "Continental Dispatch Academy",
