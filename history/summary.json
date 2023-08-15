@@ -246,19 +246,19 @@
     "url": "http://81.169.243.172",
     "icon": "https://icons.duckduckgo.com/ip3/81.169.243.172.ico",
     "slug": "accesco-s2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 681,
-    "timeWeek": 682,
-    "timeMonth": 704,
-    "timeYear": 704,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 716,
+    "timeDay": 774,
+    "timeWeek": 702,
+    "timeMonth": 716,
+    "timeYear": 716,
     "dailyMinutesDown": {
-      "2023-08-15": 0
+      "2023-08-15": 17
     }
   },
   {
