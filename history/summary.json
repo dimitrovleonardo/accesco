@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/accesco.co.ico",
     "slug": "accesco",
     "status": "up",
-    "uptime": "46.14%",
+    "uptime": "46.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.71%",
+    "uptimeYear": "64.98%",
     "time": 912,
-    "timeDay": 846,
-    "timeWeek": 1015,
-    "timeMonth": 1057,
-    "timeYear": 1049,
+    "timeDay": 1113,
+    "timeWeek": 1076,
+    "timeMonth": 1047,
+    "timeYear": 1050,
     "dailyMinutesDown": {
       "2023-08-06": 4,
       "2023-05-10": 96,
@@ -149,8 +149,7 @@
       "2022-09-18": 1440,
       "2022-09-17": 1440,
       "2022-09-16": 1440,
-      "2022-09-15": 1440,
-      "2022-09-14": 1440
+      "2022-09-15": 1440
     }
   },
   {
@@ -165,9 +164,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 767,
-    "timeDay": 717,
-    "timeWeek": 777,
-    "timeMonth": 787,
+    "timeDay": 956,
+    "timeWeek": 822,
+    "timeMonth": 786,
     "timeYear": 786,
     "dailyMinutesDown": {
       "2023-07-27": 35,
@@ -191,8 +190,8 @@
     "uptimeMonth": "90.49%",
     "uptimeYear": "98.93%",
     "time": 1069,
-    "timeDay": 689,
-    "timeWeek": 1329,
+    "timeDay": 931,
+    "timeWeek": 1361,
     "timeMonth": 1012,
     "timeYear": 1147,
     "dailyMinutesDown": {
@@ -226,11 +225,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.67%",
-    "time": 1772,
-    "timeDay": 600,
-    "timeWeek": 677,
-    "timeMonth": 2018,
-    "timeYear": 1772,
+    "time": 1755,
+    "timeDay": 809,
+    "timeWeek": 713,
+    "timeMonth": 2047,
+    "timeYear": 1755,
     "dailyMinutesDown": {
       "2023-09-04": 72,
       "2023-08-27": 67,
@@ -249,11 +248,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 882,
-    "timeDay": 666,
-    "timeWeek": 929,
-    "timeMonth": 902,
-    "timeYear": 882,
+    "time": 885,
+    "timeDay": 998,
+    "timeWeek": 961,
+    "timeMonth": 905,
+    "timeYear": 885,
     "dailyMinutesDown": {
       "2023-08-03": 24
     }
@@ -269,11 +268,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.87%",
-    "time": 1573,
-    "timeDay": 971,
-    "timeWeek": 951,
-    "timeMonth": 888,
-    "timeYear": 1573,
+    "time": 1560,
+    "timeDay": 985,
+    "timeWeek": 985,
+    "timeMonth": 893,
+    "timeYear": 1560,
     "dailyMinutesDown": {
       "2023-09-01": 71
     }
