@@ -14,7 +14,9 @@ sites:
    - name: Continental Dispatch Academy
      url: https://continentaldispatchacademy.mk/
    - name: Youth-Led Activism Platform
-     url: https://yla-platform.eu/
+     url: https://yla-platform.eu/  
+   - name: Ideal Logistik
+     url: https://ideallogistik.mk
 status-website:
 # Add your custom domain name, or remove the `cname` line if you don't have a domain
 # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
