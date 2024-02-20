@@ -171,19 +171,19 @@
     "url": "https://ideallogistik.mk",
     "icon": "https://icons.duckduckgo.com/ip3/ideallogistik.mk.ico",
     "slug": "ideal-logistik",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 648,
-    "timeDay": 673,
-    "timeWeek": 560,
-    "timeMonth": 731,
-    "timeYear": 648,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 645,
+    "timeDay": 601,
+    "timeWeek": 548,
+    "timeMonth": 723,
+    "timeYear": 645,
     "dailyMinutesDown": {
-      "2024-02-20": 0
+      "2024-02-20": 19
     }
   }
 ]
