@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/accesco.co.ico",
     "slug": "accesco",
     "status": "up",
-    "uptime": "57.67%",
+    "uptime": "57.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -171,17 +171,19 @@
     "url": "https://ideallogistik.mk",
     "icon": "https://icons.duckduckgo.com/ip3/ideallogistik.mk.ico",
     "slug": "ideal-logistik",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 651,
-    "timeDay": 876,
-    "timeWeek": 573,
-    "timeMonth": 740,
-    "timeYear": 651,
-    "dailyMinutesDown": {}
+    "time": 648,
+    "timeDay": 673,
+    "timeWeek": 560,
+    "timeMonth": 731,
+    "timeYear": 648,
+    "dailyMinutesDown": {
+      "2024-02-20": 0
+    }
   }
 ]
