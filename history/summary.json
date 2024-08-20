@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/accesco.co.ico",
     "slug": "accesco",
     "status": "up",
-    "uptime": "65.95%",
+    "uptime": "65.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -186,10 +186,10 @@
     "url": "https://linkup.mk",
     "icon": "https://icons.duckduckgo.com/ip3/linkup.mk.ico",
     "slug": "linkup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 863,
@@ -198,6 +198,7 @@
     "timeMonth": 857,
     "timeYear": 863,
     "dailyMinutesDown": {
+      "2024-08-20": 2,
       "2024-04-19": 48,
       "2024-04-17": 30
     }
@@ -207,9 +208,9 @@
     "url": "194.164.56.8",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "linkup-server-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -218,6 +219,8 @@
     "timeWeek": 128,
     "timeMonth": 127,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-20": 0
+    }
   }
 ]
