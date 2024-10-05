@@ -58,9 +58,9 @@
     "url": "https://fullhauz.com",
     "icon": "https://icons.duckduckgo.com/ip3/fullhauz.com.ico",
     "slug": "fullhauz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -70,6 +70,7 @@
     "timeMonth": 882,
     "timeYear": 856,
     "dailyMinutesDown": {
+      "2024-10-05": 0,
       "2024-06-05": 35,
       "2024-02-25": 45,
       "2024-02-24": 3
