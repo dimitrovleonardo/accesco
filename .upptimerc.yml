@@ -3,12 +3,10 @@ owner: dimitrovleonardo # Your GitHub organization or username, where this repos
 repo: accesco # The name of this repository
 
 sites:
-   - name: Accesco
-     url: https://accesco.co
    - name: Kardiologija
      url: https://kardiologijazs.com
    - name: Continental Dispatch Academy
-     url: https://continentaldispatchacademy.mk/
+     url: https://cda.mk/
    - name: Youth-Led Activism Platform
      url: https://yla-platform.eu/  
    - name: Ideal Logistik
